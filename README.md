@@ -1,7 +1,7 @@
 # Unit 17 | Assignment - Visualizing Data with Leaflet
 
 ---
-## The completed assignment can be visualized at [https://petitspoissons.github.io/USGS_Mapping/]
+### The completed assignment can be visualized at https://petitspoissons.github.io/USGS_Mapping/
 ---
 
 ## Instructions
